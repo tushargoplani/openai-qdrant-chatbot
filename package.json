@@ -1,0 +1,33 @@
+{
+  "name": "enverx-be-developer-assignment",
+  "version": "1.0.0",
+  "description": "[![N|Solid](https://iili.io/Hi9giog.png)](https://www.enverx.com/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushargoplani/enverx-be-developer-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushargoplani/enverx-be-developer-assignment/issues"
+  },
+  "homepage": "https://github.com/tushargoplani/enverx-be-developer-assignment#readme",
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "any-text": "^1.2.0",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "formidable": "^2.1.1",
+    "mongoose": "^7.3.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22",
+    "openai": "^3.3.0"
+  }
+}
